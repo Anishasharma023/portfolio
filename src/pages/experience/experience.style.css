@@ -1,0 +1,32 @@
+.img-resize {
+    width: 9em;
+    height: 50px;
+  }
+
+ 
+  .row1{
+    width: 100%;
+    margin: auto;
+  }
+
+  .row2{
+    font-size: 16px;
+  }
+
+  .mandate{
+    margin: 0 0 0 auto;
+  }
+  
+  .style {
+    font-size: 20px;
+  }
+  
+  .jumbo-style {
+    background-image: linear-gradient(-225deg, #2cd8d5 0%, #6b8dd6 48%, #8e37d7 80%);
+  }
+  
+  .body-title-style {
+    font-size: 25px;
+    font-weight: 600;
+  }
+  

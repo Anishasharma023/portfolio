@@ -1,0 +1,33 @@
+.focus {
+    transition: transform 0.3s;
+  }
+
+  .banner{
+  margin: 0 auto;
+  }
+  
+  .focus:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-title {
+    font-size: 1.6em;
+    font-weight: 700;
+  }
+  
+  .image-style {
+    width: 3em;
+  }
+  
+  .font-details {
+    font-size: 2.3em;
+    font-weight: 500;
+    color: #093769;
+  }
+  
+  .font-details-b {
+    font-size: 3em;
+    font-weight: 500;
+    color: #ffffff;
+  }
+  
